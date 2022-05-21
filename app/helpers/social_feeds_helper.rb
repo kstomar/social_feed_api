@@ -1,0 +1,2 @@
+module SocialFeedsHelper
+end
